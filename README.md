@@ -25,8 +25,7 @@ Clone npm install gulp-cli -gne the source files of the theme and navigate into 
 - `npm start` or `npm run start` runs the project, launches a live preview in your default browser, and watches for changes made to files in `src`
 
 You must have npm installed in order to use this build environment.
-=======
->>>>>>> 6fb647f26a36a3f7bff01d3cc3212cd27480e59e
+
 
 ## Copyright and License
 
