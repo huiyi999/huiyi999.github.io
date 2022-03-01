@@ -4,8 +4,9 @@
 
 ## Usage
 
-### Basic Usage
+To preview the changes you make to the code, you can open the `index.html` file in your web browser.
 
+<<<<<<< HEAD
 After downloading, simply edit the HTML and CSS files included with `dist` directory. These are the only files you need to worry about, you can ignore everything else! To preview the changes you make to the code, you can open the `index.html` file in your web browser.
 
 ### Advanced Usage
@@ -24,6 +25,8 @@ Clone npm install gulp-cli -gne the source files of the theme and navigate into 
 - `npm start` or `npm run start` runs the project, launches a live preview in your default browser, and watches for changes made to files in `src`
 
 You must have npm installed in order to use this build environment.
+=======
+>>>>>>> 6fb647f26a36a3f7bff01d3cc3212cd27480e59e
 
 ## Copyright and License
 
